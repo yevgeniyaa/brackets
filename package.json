@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yankouskia/additional_5.git"
+    "url": "git+https://github.com/yevgeniyaa/additional_5.git"
   },
-  "author": "yankouskia",
+  "author": "yevgeniyaa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yankouskia/additional_5/issues"
+    "url": "https://github.com/yevgeniyaa/additional_5/issues"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/yankouskia/additional_5#readme"
+  "homepage": "https://github.com/yevgeniyaa/additional_5#readme"
 }
